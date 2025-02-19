@@ -1,3 +1,2 @@
 # A02
-## Sanid Dzigal
-## IS117 - 102
+# Sanid Dzigal, IS117 - 102
