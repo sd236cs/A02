@@ -63,3 +63,17 @@
 15. Go to the WebStorm App and paste the URL
 16. Choose the directory where you want your repository to reside on your machine
 17. Click clone, and you will see your GitHub repository open as a project in WebStorm
+
+# Part 2- Glossary of terms
+* **Branch** - In Git, a branch is a new/separate version of the main repository. Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug no matter how big or how small, you spawn a new branch to encapsulate your changes.
+* **Clone** - Cloning a repository on GitHub is the process of copying a repository's data to your local computer. This includes all versions of files and folders, as well as the repository's history and branches. 
+* **Commit** - Similar to saving a file that's been edited, a "commit" records changes to one or more files in your branch.
+* **Fetch** - Fetch is a primary command used to download contents from a remote repository to a local machine.
+* **GIT** - Git is a free, open-source version control system that helps developers track changes to their code. It's the most widely used version control system in the world. 
+* **Github** - GitHub is a website that helps developers store, track, and collaborate on software projects. It's a social network for programmers that encourages collaboration and sharing. 
+* **Merge** - Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by Git branch and integrate them into a single branch.
+* **Merge Conflict** - A "merge conflict" on GitHub occurs when two different branches of code have made changes to the same part of a file, causing Git to be unable to automatically combine those changes during a merge, requiring manual intervention to decide which version of the code to keep; essentially, it happens when multiple developers modify the same section of code simultaneously, leading to conflicting versions that need to be resolved manually.
+* **Push** - The git push command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository like GitHub.
+* **Pull** - The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+* **Remote** - A remote repository in Git, also called a remote, is a Git repository that's hosted on the Internet or another network.
+* **Repository** - A Git repository is a virtual storage space for a project's code, files, and their revision history. It's a key part of Git's version control system, which helps multiple developers work on a project simultaneously. 
